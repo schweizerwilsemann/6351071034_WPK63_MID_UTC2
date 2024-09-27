@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\fullstack\\qldouong_wp002\\source_code_de2\\usercontrol\\uccategories.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:usercontrol\\uccategories.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\fullstack\\qldouong_wp002\\source_code_de2\\categorydetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:categorydetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\fullstack\\qldouong_wp002\\source_code_de2\\categorydetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:categorydetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\fullstack\\qldouong_wp002\\source_code_de2\\managebeverage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:managebeverage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.aspx",
+              "DocumentMoniker": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\home.aspx",
+              "RelativeDocumentMoniker": "home.aspx",
+              "ToolTip": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\home.aspx",
+              "RelativeToolTip": "home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T03:51:45.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucCategories.ascx",
+              "DocumentMoniker": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\UserControl\\ucCategories.ascx",
+              "RelativeDocumentMoniker": "UserControl\\ucCategories.ascx",
+              "ToolTip": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\UserControl\\ucCategories.ascx*",
+              "RelativeToolTip": "UserControl\\ucCategories.ascx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-09-27T08:40:08.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDetails.aspx.cs",
+              "DocumentMoniker": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\CategoryDetails.aspx.cs",
+              "RelativeDocumentMoniker": "CategoryDetails.aspx.cs",
+              "ToolTip": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\CategoryDetails.aspx.cs",
+              "RelativeToolTip": "CategoryDetails.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:28:09.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDetails.aspx",
+              "DocumentMoniker": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\CategoryDetails.aspx",
+              "RelativeDocumentMoniker": "CategoryDetails.aspx",
+              "ToolTip": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\CategoryDetails.aspx",
+              "RelativeToolTip": "CategoryDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T08:27:23.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageBeverage.aspx",
+              "DocumentMoniker": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\ManageBeverage.aspx",
+              "RelativeDocumentMoniker": "ManageBeverage.aspx",
+              "ToolTip": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\ManageBeverage.aspx",
+              "RelativeToolTip": "ManageBeverage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T08:09:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.sitemap",
+              "DocumentMoniker": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\Web.sitemap",
+              "RelativeDocumentMoniker": "Web.sitemap",
+              "ToolTip": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\Web.sitemap",
+              "RelativeToolTip": "Web.sitemap",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
+              "WhenOpened": "2024-09-25T09:53:54.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultPageMaster.Master",
+              "DocumentMoniker": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\DefaultPageMaster.Master",
+              "RelativeDocumentMoniker": "DefaultPageMaster.Master",
+              "ToolTip": "D:\\Fullstack\\QLDoUong_WP002\\source_code_de2\\DefaultPageMaster.Master",
+              "RelativeToolTip": "DefaultPageMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T04:05:03.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DefaultPageMaster.master.cs" Inherits="de1.DefaultPageMaster" %>
+
+<%@ Register Src="~/UserControl/ucCategories.ascx" TagPrefix="uc1" TagName="ucCategories" %>
+
+
+<!DOCTYPE html>
+<html lang="vi">
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nguyễn Đức Khoa_6351071034_WP002</title> <!-- Sinh viên ghi chú thông tin như cú pháp yêu cầu trong thẻ title-->
+<asp:ContentPlaceHolder ID="head" runat="server">
+</asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="container">
+        <div id="menu">
+          
+            <asp:Menu ID="navigation" Orientation="Horizontal" StaticDisplayLevels="2" runat="server" DataSourceID="SiteMapDataSource1">
+            </asp:Menu>
+          
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+          
+        </div>
+
+        <div id="banner">
+            <h2>Nguyễn Đức Khoa_6351071034_WP002</h2><!-- Sinh viên ghi chú thông tin như cú pháp yêu cầu trong thẻ title-->
+        </div>
+
+        <div id="breadcrumb">
+            
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+            </asp:SiteMapPath>
+            
+        </div>
+
+        <div id="main">
+            <div id="sidebar">
+                
+                <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1">
+                </asp:TreeView>
+                <uc1:ucCategories runat="server" ID="ucCategories" />
+                <asp:DataList ID="DataList1" runat="server" DataSourceID="Categories">
+                    
+
+                </asp:DataList>
+                <asp:EntityDataSource ID="Categories" runat="server" ConnectionString="name=QLDoUong" DefaultContainerName="QLDoUong" EnableFlattening="False" EntitySetName="Categories" Select="it.[CatName]">
+                </asp:EntityDataSource>
+                
+            </div>
+
+            <div id="content">
+                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+            </div>
+        </div>
+
+        <div id="footer">
+            <p>© 2024 Company Name. All Rights Reserved.</p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
