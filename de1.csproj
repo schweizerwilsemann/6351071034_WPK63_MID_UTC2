@@ -73,6 +73,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Beverage.aspx" />
     <Content Include="Global.asax" />
     <Content Include="home.aspx" />
     <Content Include="ManageCategory.aspx" />
@@ -88,13 +89,23 @@
       <LastGenOutput>QLDoUong.cs</LastGenOutput>
     </Content>
     <Content Include="style.css" />
+    <Content Include="UserControl\ucBeverageView.ascx" />
     <Content Include="UserControl\ucCategories.ascx" />
+    <Content Include="UserControl\ucCategory.ascx" />
     <Content Include="UserControl\ucDetailPage.ascx" />
+    <Content Include="UserControl\ucManageProduct.ascx" />
     <Content Include="Web.config" />
     <Content Include="ManageBeverage.aspx" />
     <Content Include="CategoryDetails.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Beverage.aspx.cs">
+      <DependentUpon>Beverage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Beverage.aspx.designer.cs">
+      <DependentUpon>Beverage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Beverage.cs">
       <DependentUpon>QLDoUong.tt</DependentUpon>
     </Compile>
@@ -162,6 +173,13 @@
     <Compile Include="CategoryDetails.aspx.designer.cs">
       <DependentUpon>CategoryDetails.aspx</DependentUpon>
     </Compile>
+    <Compile Include="UserControl\ucBeverageView.ascx.cs">
+      <DependentUpon>ucBeverageView.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControl\ucBeverageView.ascx.designer.cs">
+      <DependentUpon>ucBeverageView.ascx</DependentUpon>
+    </Compile>
     <Compile Include="UserControl\ucCategories.ascx.cs">
       <DependentUpon>ucCategories.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -169,12 +187,26 @@
     <Compile Include="UserControl\ucCategories.ascx.designer.cs">
       <DependentUpon>ucCategories.ascx</DependentUpon>
     </Compile>
+    <Compile Include="UserControl\ucCategory.ascx.cs">
+      <DependentUpon>ucCategory.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControl\ucCategory.ascx.designer.cs">
+      <DependentUpon>ucCategory.ascx</DependentUpon>
+    </Compile>
     <Compile Include="UserControl\ucDetailPage.ascx.cs">
       <DependentUpon>ucDetailPage.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="UserControl\ucDetailPage.ascx.designer.cs">
       <DependentUpon>ucDetailPage.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\ucManageProduct.ascx.cs">
+      <DependentUpon>ucManageProduct.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControl\ucManageProduct.ascx.designer.cs">
+      <DependentUpon>ucManageProduct.ascx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

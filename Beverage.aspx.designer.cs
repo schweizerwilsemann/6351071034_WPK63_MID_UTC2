@@ -11,16 +11,16 @@ namespace de1
 {
 
 
-    public partial class ManageProduct
+    public partial class Beverage1
     {
 
         /// <summary>
-        /// ucManageProduct control.
+        /// ucBeverageView control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::de1.UserControl.ucManageProduct ucManageProduct;
+        protected global::de1.UserControl.ucBeverageView ucBeverageView;
     }
 }
